@@ -3,7 +3,7 @@ LightShot is a free to use service for uploading images and generating a link fo
 
 
 ## Requirements
-Following modules must be installed to use the script:
+Following (python3) modules must be installed to use the script:
 `request`
 `Beautifulsoup 4`
 
