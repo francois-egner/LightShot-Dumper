@@ -10,4 +10,4 @@ Following modules must be installed to use the script:
 A textfile named `failedIDs.txt` must be present in the scripts directory. It will store all IDs which do not reference an image.
 
 ## Usage
-`python ls-dumper.py [DOWNLOADDIR]`
+`python ls-dumper.py [DOWNLOADDIR]` (e.g. python ls-dumper.py C:\\Images\\\)
